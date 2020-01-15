@@ -5,7 +5,7 @@ A 2D sidescroller game demo made using Unity C#
 
 ![ZeDS Banner](https://cdn.discordapp.com/attachments/565401989836570629/667067073859420190/ZedsBanner.PNG)
 ## ZeDS: Zero Day Shadow
-Set in the year 21XX, a technological island called Kalta was born to balance out technology worldwide by research, development and distribution in a balanced way, and to keep tech information infinitely free around the globe. It is the most advanced island in the world with all kinds of people from all parts of the world living in Kalta. By being a very valuable island full of cutting-edge technology, people living on the deep part of Kalta started rebeling for power. When the inbalance of power arises and chaos spread all around Kalta, two mysterious anti-heroes shows up to save the island...maybe?
+Set in the year 21XX, a technological island called Kalta was born to balance out technology worldwide by research, development and distribution in a balanced way, and to keep tech information infinitely free around the globe. It is the most advanced island in the world with all kinds of people from all parts of the world living in Kalta. By being a very valuable island full of cutting-edge technology, people living on the deep part of Kalta started rebelling for power. When the imbalance of power arises and chaos spread all around Kalta, two mysterious anti-heroes shows up to save the island...maybe?
 ## Demo Characters
 ### Emilibot
 ![Emilibot](https://cdn.discordapp.com/attachments/565401989836570629/667076673346207773/unknown.png)
@@ -24,7 +24,7 @@ The MCSD-MK1, or as common people likes to call "Flying Drone", are the first in
 ### Time Trial
 ![TimeTrial](https://cdn.discordapp.com/attachments/565401989836570629/667080222235164673/unknown.png)
 
-Located in an Abandoned Factory in south of Brogs District, plenty of metal scraps surrounded the factory which are filled with rusty drones. With plenty of facilities that could still function properly, it is a great spot as a training ground. There is even a time trial facility which were used to test out new drone capabilities with different layouts for either ground units and or flying units. This facility was used to be a drone or bot factory owned by DroCorp. which specialized in creating multiple types of drones mainly for general use. Unfortunately, it was abandoned due to a systematic failure combined with a lawsuit that they were loosing. For that reason, there are a lot of drone and bot parts that could be found. 
+Located in an Abandoned Factory in south of Brogs District, plenty of metal scraps surrounded the factory which are filled with rusty drones. With plenty of facilities that could still function properly, it is a great spot as a training ground. There is even a time trial facility which were used to test out new drone capabilities with different layouts for either ground units and or flying units. This facility was used to be a drone or bot factory owned by DroCorp. which were specialized in creating multiple types of drones mainly for general use. Unfortunately, it was abandoned due to a systematic failure combined with a lawsuit that they were loosing. For that reason, there are a lot of drone and bot parts that could be found. 
 
 ### Time Trial (Target Practice)
 ![TimeTrialTargetPractice](https://cdn.discordapp.com/attachments/565401989836570629/667084798925209671/unknown.png)
