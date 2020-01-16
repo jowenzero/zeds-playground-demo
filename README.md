@@ -2,7 +2,8 @@
 A 2D sidescroller game demo made using Unity C#
 
 [Demo Link](https://mega.nz/#!Tiw3RCTJ!n4qa8gvuLJgaafB-vZ9N1G_Ghy-cgaIL8dshdvUhz3k)
-[Source Code Link](https://mega.nz/#!365RGKSY!FHypPgPi7wBd5NcXgxcZ2-zweLThjPB7JEntAi1o5qs) (GitHub transfer incomplete due to big file size)
+
+[Source Code Link](https://mega.nz/#!365RGKSY!FHypPgPi7wBd5NcXgxcZ2-zweLThjPB7JEntAi1o5qs) **(GitHub transfer incomplete due to big file size)**
 
 ![ZeDS Banner](https://cdn.discordapp.com/attachments/565401989836570629/667067073859420190/ZedsBanner.PNG)
 ## ZeDS: Zero Day Shadow
